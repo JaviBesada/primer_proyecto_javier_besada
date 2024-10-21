@@ -6,4 +6,4 @@ Tercer commit
 
 Commit nueva-funcionalidad
 
-Generar conflicto
+Conflicto generado 
