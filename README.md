@@ -7,3 +7,5 @@ Tercer commit
 Commit nueva-funcionalidad
 
 Conflicto generado en nueva-funcionalidad
+
+Conectado a repositorio remoto.
