@@ -8,4 +8,4 @@ Commit nueva-funcionalidad
 
 Conflicto generado en nueva-funcionalidad
 
-Conectado a repositorio remoto.
+Conectado a repositorio remoto en GitHub
